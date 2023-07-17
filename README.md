@@ -8,4 +8,4 @@ This repository is dedicated to an AI project that aims to detect crashes from d
 - pandas (2.0.0)
 
 ## dataset
-In this project [Car Crash Dataset (CCD)]([https://www.example.com](https://github.com/Cogito2012/CarCrashDataset)https://github.com/Cogito2012/CarCrashDataset) used as dataset. The dataset should be under the images folder on main directory.
+In this project [Car Crash Dataset (CCD)]([https://www.example.com](https://github.com/Cogito2012/CarCrashDataset) used as dataset. The dataset should be under the images folder on main directory.
